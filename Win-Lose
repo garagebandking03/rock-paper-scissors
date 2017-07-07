@@ -7,7 +7,7 @@ function compare(choice1, choice2){
         } else {
             return "rock wins";
         }
- else if (choice1 === "paper") {
+ } else if (choice1 === "paper") {
         if (choice2 === "scissors") {
             return "scissors wins";  
         } else {
